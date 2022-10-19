@@ -21,4 +21,4 @@ C언어로만튼 탱크 슈팅게임
 ### 맡은 파트
 - 탱크게임 전체 총괄, 구현
 
-<img src="https://user-images.githubusercontent.com/86215246/196712969-759e26b9-80b6-459d-a78f-9900b3463d74.mp4"/>
+<img src="https://user-images.githubusercontent.com/86215246/196715079-b3f35df6-d2a7-4521-87b1-8f4aafecaf75.mp4"/>
