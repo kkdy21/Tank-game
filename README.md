@@ -31,4 +31,11 @@ C언어로만튼 탱크 슈팅게임
 통해 구조체의 유용함을 알수있었다.
 나름 완성도 있는 게임을 만들게 되어 뿌듯했다.
 
+### 구현내용
+
+<img width="723" alt="image" src="https://user-images.githubusercontent.com/86215246/208306063-1483a011-5dba-421b-8adc-b7dc8be034d2.png">
+<img width="723" alt="image" src="https://user-images.githubusercontent.com/86215246/208306068-e043d8ed-b76b-4560-8c4f-c3a5aefdb60a.png">
+<img width="723" alt="image" src="https://user-images.githubusercontent.com/86215246/208306073-9340355e-849b-4c1b-ba3d-bbce73a3f860.png">
+
+
 <img src="https://user-images.githubusercontent.com/86215246/196715079-b3f35df6-d2a7-4521-87b1-8f4aafecaf75.mp4"/>
